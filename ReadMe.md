@@ -24,7 +24,7 @@ Learn the essentials of Java — syntax, object-oriented programming, and data s
 - [**Hello World Plus**](Hello%20World%20Plus) — Print custom messages with style and formatting.
 - [**Simple Calculator**](Calculator) — Perform arithmetic operations interactively.
 - [**Unit Converter**](Unit%20Converter)— Convert temperature, distance, and weight.
-- [**Password Generator**](Password%Generator) — Create secure random passwords.
+- **Password Generator** — Create secure random passwords.
 - [**Number Guessing Game**](Number%Guessing%Game) — Guess the number and get feedback.
 - [**Character Counter**](Character%Counter) — Count letters, spaces, and symbols.
 - **Form Validator** — Validate inputs (email, phone, ZIP) using Regex.
